@@ -78,6 +78,6 @@ class BowlingGame:
 		
 
 #Your tasks for code parts:
-#1: If there are any bugs in the code, you have to remove using debugging and run the project and test cases.
+
 #2: Refactor the code (Improve its structure without changing external behaviour).
 #3: Report everything using github commits and versioning control.
